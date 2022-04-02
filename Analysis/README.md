@@ -24,5 +24,6 @@ The analysis of the election show that:
 - The winner of the election by popular vote was Diana DeGette who received 272,892 votes. 
     
 ## Election Audit Summary
-The election_data.csv file was quite large at 369,712 rows of data. Using the software listed in resources I was able to use a for loop to count the votes by candidate, calculate the percentage of votes by candidate and determine the winner. 
-To analyze the data and write the results to a text file, I needed to: import 'csv' and 'os' modules; write code to read the csv file; create variables; write for loops and nested for loops along with using dictionaries, indexing and formatting to present the analysis in a user-friendly format.      
+The election_data.csv file was quite large at 369,712 rows of data. Using Python and VS Code to analyze the data, I was able to use dictionaries, conditionals and for loops to count the votes by county and candidate; calculate the percentage of votes by county and candidate; and determine the winner. 
+
+The election audit summary results can be used by the Colorado Board of Election to allocate resources as needed/desired per voter turnout.  
