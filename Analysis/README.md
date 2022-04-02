@@ -9,6 +9,8 @@ Tasks Include:
 4. Calculate the vote count for each county and percentage of votes.
 5. Determine the winning the county. 
 
+https://github.com/Ninax3/Election_Analysis/blob/main/Analysis/election_results.txt
+
 ## Election Audit Results
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
