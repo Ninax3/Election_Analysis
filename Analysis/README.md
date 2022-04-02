@@ -11,18 +11,18 @@ Tasks Include:
 
 ## Election Audit Results
 The analysis of the election show that:
--There were 369,711 votes cast in the election.
--The county results were:
-    - Jefferson county with 10.5% of the total votes and 38,855 votes.
-    - Denver county with 82.8%% of the total votes and 306,055 votes.
-    - Arapahoe county with 6.7% of the total votes and 24,801 votes. 
--The county with the largest number of votes was Denver county. 
--
--The winner of the election was:
-    -Diana DeGette who received 272,892 votes which is 73.8% of total votes. 
+- There were 369,711 votes cast in the election.
+- The county results were:
+  - Jefferson county with 10.5% of the total votes and 38,855 votes.
+  - Denver county with 82.8%% of the total votes and 306,055 votes.
+  - Arapahoe county with 6.7% of the total votes and 24,801 votes. 
+- The county with the largest number of votes was Denver county. 
+- The candidate results:
+  - Charles Casper Stockham received 23% of the votes and 85,213 number of votes.
+  - Diana DeGette received 73.8% of the votes and 272,892 number of votes. 
+  - Raymon Anthony Doeane received 3.1% of the votes and 11,606 number of votes. 
+- The winner of the election by popular vote was Diana DeGette who received 272,892 votes. 
     
-## Challenge Overview
+## Election Audit Summary
 The election_data.csv file was quite large at 369,712 rows of data. Using the software listed in resources I was able to use a for loop to count the votes by candidate, calculate the percentage of votes by candidate and determine the winner. 
-
-## Challenge Summary
 To analyze the data and write the results to a text file, I needed to: import 'csv' and 'os' modules; write code to read the csv file; create variables; write for loops and nested for loops along with using dictionaries, indexing and formatting to present the analysis in a user-friendly format.      
