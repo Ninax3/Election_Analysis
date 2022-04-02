@@ -28,7 +28,7 @@ The analysis of the election show that:
     -Diana DeGette who received 272,892 votes which is 73.8% of total votes. 
     
 ## Challenge Overview
-The election_data.csv file was quite large at 369,712 rows of data. Using the software listed in resources I was able to carefully count the votes by candidate, calculate the percentage of votes by candidate and determine the winner. 
+The election_data.csv file was quite large at 369,712 rows of data. Using the software listed in resources I was able to use a for loop to count the votes by candidate, calculate the percentage of votes by candidate and determine the winner. 
 
 ## Challenge Summary
 To analyze the data and write the results to a text file, I needed to: import 'csv' and 'os' modules; write code to read the csv file; create variables; write for loops and nested for loops along with using dictionaries, indexing and formatting to present the analysis in a user-friendly format.      
