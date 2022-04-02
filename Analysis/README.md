@@ -27,9 +27,9 @@ The analysis of the election show that:
 
 Reusable code examples for determining candidates with respective vote counts.
 https://github.com/Ninax3/Election_Analysis/blob/main/Analysis/Code_Ex1_Reusable.pdf
+
 Reusable code example for determining county with respective vote counts. 
-
-
+https://github.com/Ninax3/Election_Analysis/blob/main/Analysis/Code_Ex2_Reusable.pdf
     
 ## Election Audit Summary
 The election_data.csv file was quite large at 369,712 rows of data. Using Python and VS Code to analyze the data, I was able to use dictionaries, conditionals and for loops to count the votes by county and candidate; calculate the percentage of votes by county and candidate; and determine the winner.
